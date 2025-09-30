@@ -1,6 +1,6 @@
 # Multi-modal AI Workflow
 
-![Workflow Screenshot](image_b40186.png)
+![Workflow Screenshot](multimodal.png)
 
 This project is an intelligent workflow built in n8n that analyzes and routes user inputs based on their data type. It can distinguish between text messages, images, and documents, processing each accordingly.
 
